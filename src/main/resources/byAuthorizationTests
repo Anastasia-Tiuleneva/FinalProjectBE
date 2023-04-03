@@ -1,0 +1,3 @@
+base_url = https://test-stand.gb.ru/gateway/login
+posts = https://test-stand.gb.ru/api/posts
+token = 0ff708e102396f8173e57a463460b47e
